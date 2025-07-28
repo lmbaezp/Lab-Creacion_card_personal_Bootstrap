@@ -1,0 +1,16 @@
+.personal-card {
+    background-color: #3f4b65;
+}
+    
+.icons {
+    color: #f4d3ce;
+}
+
+.icons:hover, .skills {
+    background-color: #f4d3ce;
+    color: #3f4b65;
+}
+
+.info {
+    color: #d58567;
+}
